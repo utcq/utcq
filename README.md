@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Discord: Unity#8558**
 
-- Fun Fact **i use {void/arch/fedora/debian} btw**
+- Fun Fact **i use {void/arch/fedora/gentoo} btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
