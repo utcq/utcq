@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **Discord: Unity#8558**
+- 📫 How to reach me **Discord: /{Unity}#8558**
 
 - Fun Fact **i use {void/arch/fedora/gentoo} btw**
 
