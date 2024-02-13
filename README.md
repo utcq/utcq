@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utcq" alt="utcq" /></a> </p>
 
-- 🌱 I’m currently learning **C++ Rust**
-
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, C or Rust**
 
 - 📫 How to reach me **Discord: /{Unity}#8558**
 
