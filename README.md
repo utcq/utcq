@@ -1,4 +1,4 @@
-<h1 align="center">[Unity / utcq]</h1>
+<h1 align="center">[Un!ty / utcq]</h1>
 <h2 align="center">AKA AAAAAAAAAAAAAAAAAAA</h1>
 <img align="center" style="width: 512px; height: 256px" src="https://github.com/utcq/utcq/blob/main/assets/blaho.png?raw=true"/>
 
