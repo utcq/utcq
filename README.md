@@ -1,30 +1,27 @@
-<h1 align="center">[Un!ty / utcq]</h1>
-<h2 align="center">AKA AAAAAAAAAAAAAAAAAAA</h1>
-<div align="center">
-  <img style="width: 512px; height: 256px" src="assets/panz.jpg"/>
-</div>
-
-<h2 align="center"> Langs </h2>
-
-
-- **Python** 🥑
-- **C** 🎂
-- **C++** 🇦🇫
-- **x86 Assembly** ⚙️
-- **Rust** 🦀
-
-_*(That's a lot !!)*_
-
-
-<h2 align="center"> WHAT I DO </h2>
-
-```yaml
-- idk, few things. osdev, low level and system. BUT NOT WEBDEV
-- i use arch btw :)
+## 🔔 About Me
+```c
+struct unity_t Unity = {
+    .pronuns = "He/Him",
+    .color = "Orange",
+    .country = "Italy",
+    .code = {"Python", "Rust", "C++", "C", "x86asm"},
+    .distro = "Arch",
+    .hobbies = {"Programming", "Gaming", "Astronomy"},
+    .askabout = {
+      "Osdev",
+      "Langdev",
+      "Low Level",
+      "Linux",
+    },
+    .learning = {
+      "CTF",
+      "Assemblers"
+    },
+    .contact = "unityCoder@proton.me"
+};
 ```
 
-`unityCoder@proton.me` 
-```
+```toml
 -----BEGIN RSA PUBLIC KEY-----
 MIGJAoGBAJ2GZFdBBoZlxrDxZk7XZUNvU2eSen0onbgRo73AF0QRwf/hyCXAnUIP
 0SGOH36tQPkqUHnbIZft33Z6lyK1NP67hmXltfg+cuH9OXEMmhMZzidCk1UILmhP
