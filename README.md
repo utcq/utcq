@@ -1,12 +1,12 @@
 ## 🔔 About Me
 ```c
 struct unity_t Unity = {
-    .pronuns = "He/Him",
+    .pronouns = "He/Him",
     .color = "Orange",
     .country = "Italy",
     .code = {"Python", "Rust", "C++", "C", "x86asm"},
     .distro = "Arch",
-    .hobbies = {"Programming", "Gaming", "Astronomy"},
+    .hobbies = {"Programming", "Gaming", "Chemistry"},
     .askabout = {
       "Osdev",
       "Langdev",
