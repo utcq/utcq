@@ -1,36 +1,30 @@
 <div align="center">
     
-## Check out [Wind](https://github.com/utcq/wind) Lang
+## Check out [Wind](https://github.com/wind-language) Lang
+
+## 🔐 GPG Key
 
 </div>
 
-## 🔔 About Me
-```c
-struct unity_t Unity = {
-    .pronouns = "He/Him",
-    .color = "Orange",
-    .country = "Italy",
-    .code = {"Python", "Rust", "C++", "C", "x86asm"},
-    .distro = "Arch",
-    .hobbies = {"Programming", "Gaming", "Chemistry"},
-    .askabout = {
-      "Osdev",
-      "Langdev",
-      "Low Level",
-      "Linux",
-    },
-    .learning = {
-      "CTF",
-      "Assemblers"
-    },
-    .contact = "unityCoder@proton.me"
-};
+```rs
+pub   rsa4096 2025-02-16 [SC]
+      FBBD439FEDCD58F27EAA7489371A3C9D9B2B5C20
+uid                      utcq (PubGPG) <unityCoder@proton.me>
+sub   rsa4096 2025-02-16 [E]
 ```
 
-```toml
------BEGIN RSA PUBLIC KEY-----
-MIGJAoGBAJ2GZFdBBoZlxrDxZk7XZUNvU2eSen0onbgRo73AF0QRwf/hyCXAnUIP
-0SGOH36tQPkqUHnbIZft33Z6lyK1NP67hmXltfg+cuH9OXEMmhMZzidCk1UILmhP
-OwQ/f/9EAZ9T18QXH4sqUC7CJYTVWwzbvQyLj4KrYlXOEovbiuo/AgMIAEE=
------END RSA PUBLIC KEY-----
+<div align="center">
+
+<sub>
+
+[**Download**](https://github.com/utcq/utcq/raw/refs/heads/main/assets/utcq.gpg)
+
+</sub>
+
+    
+<sub> FINGERPRINT </sub>
+</div>
+
+```rs
+FBBD 439F EDCD 58F2 7EAA  7489 371A 3C9D 9B2B 5C20
 ```
