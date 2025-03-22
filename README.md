@@ -28,3 +28,7 @@ sub   rsa4096 2025-02-16 [E]
 ```rs
 FBBD 439F EDCD 58F2 7EAA  7489 371A 3C9D 9B2B 5C20
 ```
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/utcq/ocbadge/main/card.svg"/>
+</div>
