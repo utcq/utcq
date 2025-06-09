@@ -1,6 +1,6 @@
 <div align="center">
     
-## Check out [Wind](https://github.com/wind-language) Lang
+## Check out [Lithium](https://codeberg.org/Lithium) Lang
 
 ## 🔐 GPG Key
 
