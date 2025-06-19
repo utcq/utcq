@@ -7,17 +7,17 @@
 </div>
 
 ```rs
-pub   rsa4096 2025-02-16 [SC]
-      FBBD439FEDCD58F27EAA7489371A3C9D9B2B5C20
-uid                      utcq (PubGPG) <unityCoder@proton.me>
-sub   rsa4096 2025-02-16 [E]
+pub   rsa4096 2025-04-05 [SC]
+      7D0AEDD0BCD8DD8D0A9A7EC7CDB08B9F31BF20F1
+uid           [ultimate] utcq (World-wide key) <utcq@autistici.org>
+sub   rsa4096 2025-04-05 [E]
 ```
 
 <div align="center">
 
 <sub>
 
-[**Download**](https://github.com/utcq/utcq/raw/refs/heads/main/assets/utcq.gpg)
+[**Download**](https://github.com/utcq/utcq/raw/refs/heads/main/assets/utcq2.gpg)
 
 </sub>
 
@@ -26,7 +26,7 @@ sub   rsa4096 2025-02-16 [E]
 </div>
 
 ```rs
-FBBD 439F EDCD 58F2 7EAA  7489 371A 3C9D 9B2B 5C20
+7D0A EDD0 BCD8 DD8D 0A9A  7EC7 CDB0 8B9F 31BF 20F1
 ```
 
 <div align="center">
