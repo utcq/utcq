@@ -1,16 +1,14 @@
 <div align="center">
-    
-## Check out [Lithium](https://codeberg.org/Lithium) Lang
 
-## 🔐 GPG Key
+## 🔐
 
 </div>
 
 ```rs
-pub   rsa4096 2025-04-05 [SC]
-      7D0AEDD0BCD8DD8D0A9A7EC7CDB08B9F31BF20F1
-uid           [ultimate] utcq (World-wide key) <utcq@autistici.org>
-sub   rsa4096 2025-04-05 [E]
+pub   rsa4096 2025-07-26 [SC]
+      680C68337D7075A11DFD44B6D599F9FDAC44C8B5
+uid           [ultimate] utcq <utcq@autistici.org>
+sub   rsa4096 2025-07-26 [E]
 ```
 
 <div align="center">
@@ -22,12 +20,7 @@ sub   rsa4096 2025-04-05 [E]
 </sub>
 
     
-<sub> FINGERPRINT </sub>
-</div>
-
-```rs
-7D0A EDD0 BCD8 DD8D 0A9A  7EC7 CDB0 8B9F 31BF 20F1
-```
+<sub> Signatures don't lie </sub>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/utcq/ocbadge/main/card.svg"/>
